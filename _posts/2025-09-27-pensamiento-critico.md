@@ -2,7 +2,7 @@
 layout: post
 title: Tarea 1. Pensamiento crítico
 subtitle: "Mejorando la delegación: Un enfoque científico para el trabajo en equipo"
-categories: PensamientoCrítico
+categories: [Pensamiento crítico]
 tags: [PensamientoCrítico, Delegar, Rectificar, Liderazgo]
 ---
 
