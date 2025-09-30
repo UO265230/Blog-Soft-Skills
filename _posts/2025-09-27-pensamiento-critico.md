@@ -82,6 +82,13 @@ Por último, mejorar mi capacidad de delegar no es solo un reto personal, sino u
 
 ### Vídeo de Resumen / Reflexión Personal:
 
+<div align="center">
+    <iframe width="560" height="315" 
+            src="https://drive.google.com/file/d/1qUSIRmiaPEjS7cPdx8-PGgCo0wvGeh0B/preview" 
+            title="Resumen sobre asignarme más tareas de las necesarias" 
+            frameborder="0">
+    </iframe>
+</div>
 
 ## Referencias y Bibliografía
 
