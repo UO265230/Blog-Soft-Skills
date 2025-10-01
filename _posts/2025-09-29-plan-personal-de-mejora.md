@@ -82,9 +82,13 @@ En este punto, reflexioné también sobre el modo en que tomo mis decisiones. No
 
 ### Vídeo de Resumen / Reflexión Personal:
 
-Mi experiencia con el inglés me ha enseñado que no planificar puede pasar factura en el futuro, pero también que nunca es tarde para reorientar el rumbo. Igual que Shackleton tuvo que replantear su expedición para salvar a su tripulación, yo he decidido replantear mi forma de aprender inglés para garantizar mi desarrollo personal y profesional. 
-
-Planificar con objetivos claros, medibles y realistas me permitirá no solo obtener un título, sino ganar confianza en mi capacidad de comunicarme y abrir nuevas oportunidades.
+<div align="center">
+    <iframe width="560" height="315" 
+            src="https://drive.google.com/file/d/1qxk13JqEe5GRbk73AU1rEvtir_fJHJVX/preview" 
+            title="Resumen sobre mi plan de mejora" 
+            frameborder="0">
+    </iframe>
+</div>
 
 ## Referencias y Bibliografía
 
