@@ -106,22 +106,22 @@ Hoy miro atrás y veo que aquella decisión impulsiva se transformó en una expe
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong> Elaboración propia. [Imagen].</a>
+        <strong>[1]</strong> Elaboración propia. [Imagen].
     </p>
     <p>
         <a name="ref2"></a>
-        <strong>[2]</strong> Elaboración propia. [Imagen].</a>
+        <strong>[2]</strong> Elaboración propia. [Imagen].
     </p>
     <p>
         <a name="ref3"></a>
-        <strong>[3]</strong> Elaboración propia. [Imagen].</a>
+        <strong>[3]</strong> Elaboración propia. [Imagen].
     </p>
     <p>
         <a name="ref4"></a>
-        <strong>[4]</strong> Elaboración propia. [Imagen].</a>
+        <strong>[4]</strong> Elaboración propia. [Imagen].
     </p>
     <p>
         <a name="ref5"></a>
-        <strong>[5]</strong> Elaboración propia. [Imagen].</a>  
+        <strong>[5]</strong> Elaboración propia. [Imagen].  
     </p>    
 </div>
