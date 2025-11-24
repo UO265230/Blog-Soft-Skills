@@ -10,6 +10,15 @@ tags: [Carnegie, Greene, Comunicación, HabilidadesSociales, Influencia, Estrate
 
 En la sesión de clase se analizaron dos formas muy distintas de entender las relaciones humanas: el enfoque del aprecio de Dale Carnegie y las Leyes del Poder de Robert Greene. Aunque provienen de contextos totalmente diferentes, ambos nos ayudan a comprender mejor cómo actuamos, cómo comunicamos y cómo influimos en los demás. Me ha parecido especialmente interesante verlos juntos, casi como dos polos opuestos dentro del mismo mapa social.
 
+<div align="center">
+    <figure>
+        <img src="https://i.ytimg.com/vi/k4mtI1hKJ2c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCj87CuuF8uKic3ti_Am9oO5tFUmQ" alt="Carnegie vs Greene" style="max-width: 80%;">
+        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
+            Figura 1. Carnegie vs Greene. <strong><a href="#ref1">[1]</a></strong>
+        </figcaption>
+    </figure>
+</div>
+
 Antes de entrar en comparaciones, quiero incluir una definición que me parece clave en todo esto. Según Carnegie, el aprecio honesto es el reconocimiento sincero del valor de la otra persona, expresado sin manipulación y con autenticidad. Esta idea, sencilla en apariencia, atraviesa todas sus reglas y propone una forma de relacionarse basada en la empatía.
 
 ### Dale Carnegie: el poder del trato humano 
@@ -58,15 +67,6 @@ Después de ver la sesión, siento que Carnegie y Greene no se contradicen total
 
 Pero también hay puntos que chocan. Mientras Carnegie te invita a abrirte y mostrar empatía, Greene te pide guardar tus intenciones y hablar lo justo. Son filosofías casi opuestas.
 
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/bolo.jpg' | relative_url }}" alt="Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia, Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 1. Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia. <strong><a href="#ref1">[1]</a></strong>
-        </figcaption>
-    </figure>
-</div>
-
 ### Leyes que considero admisibles (y útiles)
 
 **Ley 5 – Protege tu reputación:**
@@ -78,15 +78,6 @@ Esta encaja muy bien con Carnegie; ambas apuntan a evitar confrontaciones innece
 **Ley 3 – Oculta tus intenciones:**
 No en un sentido manipulador, sino como forma de evitar exponerte demasiado antes de tiempo.
 
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/helado.jpg' | relative_url }}" alt="Los helados de Bolonia, de los mejores de Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 2. Probando los helados de Bolonia (de los mejores de Italia) con mi compañera de piso. <strong><a href="#ref2">[2]</a></strong>
-        </figcaption>
-    </figure>
-</div>
-
 ### Leyes que considero inadmisibles
 
 Aquí Greene se me hace más difícil de aceptar:
@@ -96,16 +87,6 @@ Aunque es histórica y realista, no me parece ética ni justa. No encaja con mi 
 
 **Ley 15 – Aplasta completamente a tu enemigo:**
 Es excesivamente agresiva; prefiero evitar conflictos, no destruir a nadie.
-
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/viena.jpg' | relative_url }}" alt="El famoso Reloj Anker de Viena, Austria. A las 12 del mediodía, doce figuras históricas desfilan al son de música clásica vienesa" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 3. El famoso Reloj Anker de Viena. A las 12 del mediodía, doce figuras históricas desfilan al son de música clásica vienesa. <strong><a href="#ref3">[3]</a></strong>
-        </figcaption>
-    </figure>
-</div>
-
 
 ### ¿Carnegie, Greene… o un punto intermedio?
 
@@ -135,22 +116,6 @@ En definitiva, esta sesión me ha ayudado a ver que las habilidades sociales no 
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong> Elaboración propia. [Imagen].
+        <strong>[1]</strong>Book Fight Club. <em>48 Laws of Power vs How to Win Friends. Power Clash</em>. [Imagen]. Recuperado de <a href="https://www.youtube.com/watch?v=k4mtI1hKJ2c" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=k4mtI1hKJ2c</a>
     </p>
-    <p>
-        <a name="ref2"></a>
-        <strong>[2]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref3"></a>
-        <strong>[3]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref4"></a>
-        <strong>[4]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref5"></a>
-        <strong>[5]</strong> Elaboración propia. [Imagen].  
-    </p>    
 </div>
