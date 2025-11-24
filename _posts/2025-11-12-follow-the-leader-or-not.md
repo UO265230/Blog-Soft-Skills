@@ -32,6 +32,15 @@ La visión actual se aleja de los jefes autoritarios y se centra en el liderazgo
 
 Daniel Goleman plantea seis estilos de liderazgo, que pueden usarse según la situación: el autoritario, el timonel, el afiliativo, el democrático, el coaching y el visionario.
 
+<div align="center">
+    <figure>
+        <img src="https://www.sortlist.es/blog/wp-content/uploads/sites/6/2022/09/optimizations-17.png" alt="Los 6 estilos de liderazgo planteados por Goleman" style="max-width: 80%;">
+        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
+            Figura 1. Los 6 estilos de liderazgo planteados por Goleman. <strong><a href="#ref1">[1]</a></strong>
+        </figcaption>
+    </figure>
+</div>
+
 Cada uno tiene sus ventajas y desventajas, pero el mensaje final fue claro: un buen líder no usa siempre el mismo estilo; sabe adaptarlo.
 
 ### Mi relación personal con el liderazgo
@@ -52,14 +61,6 @@ Diría que, si tuviera que definirme ahora mismo, me identifico con un estilo:
 
 Quizá lo que más me falta es un poco de "autoridad natural". Cuando tengo que ser estricta, me cuesta. Soy más de convencer que de mandar.
 
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/bolo.jpg' | relative_url }}" alt="Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia, Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 1. Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia. <strong><a href="#ref1">[1]</a></strong>
-        </figcaption>
-    </figure>
-</div>
 
 ### La experiencia de liderar
 
@@ -79,15 +80,6 @@ Aquí sí me noto más cómoda. Me gusta que me dirijan cuando la otra persona t
 
 Este ejercicio me hizo ver que liderar no es mandar, es acompañar. Y ser liderado tampoco es pasividad, requiere confianza, escucha y también comunicar cuando algo no está claro.
 
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/helado.jpg' | relative_url }}" alt="Los helados de Bolonia, de los mejores de Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 2. Probando los helados de Bolonia (de los mejores de Italia) con mi compañera de piso. <strong><a href="#ref2">[2]</a></strong>
-        </figcaption>
-    </figure>
-</div>
-
 ### ¿Qué estilo de liderazgo valoro más?
 
 Después de ver todos los estilos, me quedo con estos:
@@ -101,15 +93,6 @@ Después de ver todos los estilos, me quedo con estos:
 Son estilos que encajan con mi personalidad: cercanos, empáticos, colaborativos.
 
 En cambio, los estilos como el autoritarismo o el timonel me parecen útiles en momentos muy concretos (urgencias, equipos poco motivados), pero no sostenibles en el día a día.
-
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/viena.jpg' | relative_url }}" alt="El famoso Reloj Anker de Viena, Austria. A las 12 del mediodía, doce figuras históricas desfilan al son de música clásica vienesa" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 3. El famoso Reloj Anker de Viena. A las 12 del mediodía, doce figuras históricas desfilan al son de música clásica vienesa. <strong><a href="#ref3">[3]</a></strong>
-        </figcaption>
-    </figure>
-</div>
 
 
 ### ¿Qué he aprendido sobre mí?
@@ -147,22 +130,6 @@ Y si algo he sacado de esta sesión es que no existe un único "buen líder", si
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong> Elaboración propia. [Imagen].
+        <strong>[1]</strong> sortlist. <em>11 tipos de liderazgo empresarial: ¿cómo identificar el tuyo?</em>. [Imagen]. Recuperado de <a href="https://www.sortlist.es/blog/estilos-de-liderazgo/" target="_blank" rel="noopener noreferrer">https://www.sortlist.es/blog/estilos-de-liderazgo</a>
     </p>
-    <p>
-        <a name="ref2"></a>
-        <strong>[2]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref3"></a>
-        <strong>[3]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref4"></a>
-        <strong>[4]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref5"></a>
-        <strong>[5]</strong> Elaboración propia. [Imagen].  
-    </p>    
 </div>
