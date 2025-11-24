@@ -82,6 +82,6 @@ Aunque no haya participado en trabajos grupales, la reflexión individual encaja
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong> Five Boro Flag Banner and Sign. <em>McDonald's Flag " i'm lovin' it"</em> [Imagen]. Recuperado de <a href="https://allstargraphics.com/mcdonalds-flag-im-lovin-it/" target="_blank" rel="noopener noreferrer">>https://allstargraphics.com/mcdonalds-flag-im-lovin-it</a>.
+        <strong>[1]</strong> Five Boro Flag Banner and Sign. <em>McDonald's Flag " i'm lovin' it"</em> [Imagen]. Recuperado de <a href="https://allstargraphics.com/mcdonalds-flag-im-lovin-it/" target="_blank" rel="noopener noreferrer">https://allstargraphics.com/mcdonalds-flag-im-lovin-it</a>.
     </p>
 </div>
