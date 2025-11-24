@@ -16,6 +16,15 @@ Una de las ideas que más me llamó la atención es que los roles no son "etique
 
 Así, un mismo estudiante (o profesional) puede ser *Implementer* en un equipo donde haya caos, pero actuar como *Teamworker* en un grupo con tensiones, o como *Monitor Evaluator* cuando la tarea requiere frialdad y análisis. Esta flexibilidad me parece clave, especialmente en entornos laborales donde los equipos son dinámicos y las expectativas cambian cada cierto tiempo.
 
+<div align="center">
+    <figure>
+        <img src="https://media.licdn.com/dms/image/v2/C4E12AQG_b14-AA1Wiw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1520131755568?e=2147483647&v=beta&t=PadNp-_9UgSGa9tyDgJrwk2C139jDrKan_E1WFQ_ciQ" alt="Los 9 roles de Belbin" style="max-width: 80%;">
+        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
+            Figura 1. Los 9 roles de Belbin. <strong><a href="#ref1">[1]</a></strong>
+        </figcaption>
+    </figure>
+</div>
+
 ### Mi resultado del cuestionario Belbin
 
 Tras completar el cuestionario de Belbin, me sorprendió que mis roles predominantes fueran *Monitor Evaluator* y *Completer Finisher*, con un rol secundario de *Specialist*. Y aunque al principio pensé que el resultado podría haber sido demasiado "analítico", después de revisarlo lo cierto es que me representa bastante:
@@ -27,15 +36,6 @@ Tras completar el cuestionario de Belbin, me sorprendió que mis roles predomina
 * Specialist: coincide con mi forma de profundizar mucho en ciertos temas (sobre todo técnicos) y aportar desde ahí, aunque sea un rol más estrecho.
 
 La parte interesante es que estos roles no excluyen otros posibles, eso confirma una idea que comentaron en clase: los roles emergen dependiendo del proyecto, del equipo y del tipo de presión que haya.
-
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/bolo.jpg' | relative_url }}" alt="Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia, Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 1. Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia. <strong><a href="#ref1">[1]</a></strong>
-        </figcaption>
-    </figure>
-</div>
 
 ### Conexión con temperamento, carácter y personalidad
 
@@ -49,15 +49,6 @@ La sesión también diferenciaba los roles del marco de Mischel:
 
 Esta distinción me pareció especialmente útil porque explica por qué a veces no actuamos como nuestro rol "preferido", sino como nuestro "yo más automático". Por ejemplo, en entregas de proyectos bajo fuerte presión he notado cómo se me activa más un modo *Shaper*, más directo y orientado a empujar hacia la meta, aunque no sea un rol que sienta como propio en situaciones normales.
 
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/helado.jpg' | relative_url }}" alt="Los helados de Bolonia, de los mejores de Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 2. Probando los helados de Bolonia (de los mejores de Italia) con mi compañera de piso. <strong><a href="#ref2">[2]</a></strong>
-        </figcaption>
-    </figure>
-</div>
-
 ### Conclusiones
 
 Aunque no pude participar en el desafío de construir la torre de espaguetis y marshmallows, me quedo con la idea de que lo verdaderamente valioso no es la torre en sí, sino observar qué rol adopta cada persona cuando el tiempo es limitado, la presión es real y el objetivo es común. Ese tipo de actividades revelan más que cualquier test.
@@ -68,9 +59,9 @@ Creo que integrar esta visión puede mejorar mucho la forma en la que colaboro c
 
 <div align="center">
     <figure>
-        <img src="{{ '/assets/images/banners/viena.jpg' | relative_url }}" alt="El famoso Reloj Anker de Viena, Austria. A las 12 del mediodía, doce figuras históricas desfilan al son de música clásica vienesa" style="max-width: 80%;">
+        <img src="https://evolvingeducation.org/wp-content/uploads/2018/12/Marshmallow-experiment.png" alt="Stanford marshmallow experiment" style="max-width: 80%;">
         <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 3. El famoso Reloj Anker de Viena. A las 12 del mediodía, doce figuras históricas desfilan al son de música clásica vienesa. <strong><a href="#ref3">[3]</a></strong>
+            Figura 2. El experimento marshmallow. <strong><a href="#ref2">[2]</a></strong>
         </figcaption>
     </figure>
 </div>
@@ -90,22 +81,10 @@ Creo que integrar esta visión puede mejorar mucho la forma en la que colaboro c
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong> Elaboración propia. [Imagen].
+        <strong>[1]</strong> Ayla Erhan. <em>Belbin’s team roles</em>. [Imagen]. Recuperado de <a href="https://www.linkedin.com/pulse/belbins-team-roles-ayla-erhan" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/pulse/belbins-team-roles-ayla-erhan</a>
     </p>
     <p>
         <a name="ref2"></a>
-        <strong>[2]</strong> Elaboración propia. [Imagen].
+        <strong>[2]</strong> Envolving education. <em>Autocontrol</em>. [Imagen]. Recuperado de <a href= "https://evolvingeducation.org/es/autocontrol/" target="_blank" rel="noopener noreferrer">https://evolvingeducation.org/es/autocontrol</a>
     </p>
-    <p>
-        <a name="ref3"></a>
-        <strong>[3]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref4"></a>
-        <strong>[4]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref5"></a>
-        <strong>[5]</strong> Elaboración propia. [Imagen].  
-    </p>    
 </div>
