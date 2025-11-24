@@ -71,8 +71,8 @@ Aunque no haya participado en trabajos grupales, la reflexión individual encaja
 
 <div align="center">
     <iframe width="560" height="315" 
-            src="https://drive.google.com/file/d/1YUW4sTOM1ZUSR_GIDjiZIWuAPZ1JPXw8/preview" 
-            title="Reflexión personal sobre el viaje del héroe" 
+            src="https://drive.google.com/file/d/1fGbbviZ-oz00CdaO-0XE5WiFmeIb3dL3/preview" 
+            title="Reflexión personal sobre hacking personal branding" 
             frameborder="0">
     </iframe>
 </div>

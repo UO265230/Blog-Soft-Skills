@@ -119,8 +119,8 @@ Y si algo he sacado de esta sesión es que no existe un único "buen líder", si
 
 <div align="center">
     <iframe width="560" height="315" 
-            src="https://drive.google.com/file/d/1YUW4sTOM1ZUSR_GIDjiZIWuAPZ1JPXw8/preview" 
-            title="Reflexión personal sobre el viaje del héroe" 
+            src="https://drive.google.com/file/d/1NaWqkUpD2Li6td1W-rozY9t0g00HAL3X/preview" 
+            title="Reflexión personal sobre seguir o no al líder" 
             frameborder="0">
     </iframe>
 </div>

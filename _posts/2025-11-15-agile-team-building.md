@@ -87,8 +87,8 @@ Las actividades de hoy me han hecho ver que construir equipo requiere intención
 
 <div align="center">
     <iframe width="560" height="315" 
-            src="https://drive.google.com/file/d/1YUW4sTOM1ZUSR_GIDjiZIWuAPZ1JPXw8/preview" 
-            title="Reflexión personal sobre el viaje del héroe" 
+            src="https://drive.google.com/file/d/1HF0uYndZBF99not4yXsNpBz_WPYlClzb/preview" 
+            title="Reflexión personal sobre team-building" 
             frameborder="0">
     </iframe>
 </div>

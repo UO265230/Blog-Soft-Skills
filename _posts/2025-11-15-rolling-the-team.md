@@ -70,8 +70,8 @@ Creo que integrar esta visión puede mejorar mucho la forma en la que colaboro c
 
 <div align="center">
     <iframe width="560" height="315" 
-            src="https://drive.google.com/file/d/1YUW4sTOM1ZUSR_GIDjiZIWuAPZ1JPXw8/preview" 
-            title="Reflexión personal sobre el viaje del héroe" 
+            src="https://drive.google.com/file/d/1_QGDPtMB6ySR85tKIjElr5ohnbf-5iDC/preview" 
+            title="Reflexión personal sobre los roles de equipo" 
             frameborder="0">
     </iframe>
 </div>
