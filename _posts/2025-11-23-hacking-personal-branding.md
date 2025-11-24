@@ -22,16 +22,7 @@ Después, pasamos a la idea de "hackear una marca": entender sus colores, su ton
 
 Este paralelismo entre personas y marcas sirve para comprender que la imagen profesional no se limita a un CV, sino que incluye lo que comunicamos, cómo lo hacemos y qué emociones generamos en los demás.
 
-<div align="center">
-    <figure>
-        <img src="{{ '/assets/images/banners/bolo.jpg' | relative_url }}" alt="Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia, Italia" style="max-width: 80%;">
-        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
-            Figura 1. Le due torri y la Chiesa dei Santi Bartolomeo en Bolonia. <strong><a href="#ref1">[1]</a></strong>
-        </figcaption>
-    </figure>
-</div>
-
-### Construir tu identidad visual: colores, lema y logo
+### Construir tu identidad visual: Colores, lema y logo
 
 En la segunda parte se introducen elementos prácticos:
 
@@ -47,7 +38,7 @@ Esta actividad, más que generar productos bonitos, sirve para obligarte a tomar
 
 La tarjeta de presentación, o incluso tu propio dominio web, evocan la profesionalidad y claridad de objetivos. No es el objeto en sí lo que importa, sino lo que representa: venderte como una profesional concreta, con una propuesta clara y diferenciada.
 
-### La Branding Box: tu mise en place
+### La Branding Box: Mise en place
 
 Uno de los conceptos más interesantes de la sesión fue la "branding box": el conjunto de herramientas, recursos, rasgos, habilidades y objetos que conforman tu manera de trabajar. Igual que un chef organiza sus utensilios antes de cocinar, una persona puede identificar qué elementos necesita para funcionar en su mejor versión.
 
@@ -56,6 +47,15 @@ Este ejercicio ayuda a tomar conciencia de los recursos que ya tenemos —formac
 ### Inspiración externa: Richard Branson
 
 A lo largo de la presentación aparecen también los principios de Richard Branson: "Just do it", "Be bold", "Have fun"... No funcionan como eslóganes vacíos, sino como recordatorios de que la actitud es un componente clave de la marca personal. Una marca sin acción, sin riesgo o sin disfrute no se sostiene.
+
+<div align="center">
+    <figure>
+        <img src="https://cdn11.bigcommerce.com/s-nutx3o5xgu/images/stencil/2048x2048/products/726/1375/McD-imlovinit-site__78488.1600869549.jpg?c=2" alt="McDonald's: I'm lovin' it" style="max-width: 80%;">
+        <figcaption style="font-style: italic; color: #555; margin-top: 5px;">
+            Figura 1. McDonald's: I'm lovin' it. <strong><a href="#ref1">[1]</a></strong>
+        </figcaption>
+    </figure>
+</div>
 
 Sus mandamientos condensan algo esencial: una marca personal se fortalece cuando las decisiones son coherentes con nuestros valores.
 
@@ -82,22 +82,6 @@ Aunque no haya participado en trabajos grupales, la reflexión individual encaja
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong> Elaboración propia. [Imagen].
+        <strong>[1]</strong> Five Boro Flag Banner and Sign. <em>McDonald's Flag " i'm lovin' it"</em> [Imagen]. Recuperado de <a href="https://allstargraphics.com/mcdonalds-flag-im-lovin-it/" target="_blank" rel="noopener noreferrer">>https://allstargraphics.com/mcdonalds-flag-im-lovin-it</a>.
     </p>
-    <p>
-        <a name="ref2"></a>
-        <strong>[2]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref3"></a>
-        <strong>[3]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref4"></a>
-        <strong>[4]</strong> Elaboración propia. [Imagen].
-    </p>
-    <p>
-        <a name="ref5"></a>
-        <strong>[5]</strong> Elaboración propia. [Imagen].  
-    </p>    
 </div>
