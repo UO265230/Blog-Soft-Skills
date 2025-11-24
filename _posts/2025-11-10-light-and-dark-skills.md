@@ -116,6 +116,6 @@ En definitiva, esta sesión me ha ayudado a ver que las habilidades sociales no 
 <div class="references">
     <p>
         <a name="ref1"></a>
-        <strong>[1]</strong>Book Fight Club. <em>48 Laws of Power vs How to Win Friends. Power Clash</em>. [Imagen]. Recuperado de <a href="https://www.youtube.com/watch?v=k4mtI1hKJ2c" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=k4mtI1hKJ2c</a>
+        <strong>[1]</strong> Book Fight Club. <em>48 Laws of Power vs How to Win Friends. Power Clash</em>. [Imagen]. Recuperado de <a href="https://www.youtube.com/watch?v=k4mtI1hKJ2c" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=k4mtI1hKJ2c</a>
     </p>
 </div>
